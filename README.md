@@ -1,1 +1,1 @@
-Airbnb clone readme
+This is an Airbnb clone project.

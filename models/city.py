@@ -4,6 +4,6 @@ from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Implements the City class"""
+    """Implements the City class."""
     state_id = ""
     name = ""
